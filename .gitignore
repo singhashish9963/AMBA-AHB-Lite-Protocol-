@@ -1,0 +1,17 @@
+# simulation outputs
+*.vcd
+*.vvp
+*_sim
+
+# Vivado
+*.jou
+*.log
+*.str
+.Xil/
+xsim.dir/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xpr
